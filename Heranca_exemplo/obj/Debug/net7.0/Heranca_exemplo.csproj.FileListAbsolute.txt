@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Heranca_exemplo\bin\Debug\net7.0\Heranca_exemplo.exe
+C:\Users\LAB4\Desktop\Heranca_exemplo\bin\Debug\net7.0\Heranca_exemplo.deps.json
+C:\Users\LAB4\Desktop\Heranca_exemplo\bin\Debug\net7.0\Heranca_exemplo.runtimeconfig.json
+C:\Users\LAB4\Desktop\Heranca_exemplo\bin\Debug\net7.0\Heranca_exemplo.dll
+C:\Users\LAB4\Desktop\Heranca_exemplo\bin\Debug\net7.0\Heranca_exemplo.pdb
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\Heranca_exemplo.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\Heranca_exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\Heranca_exemplo.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\Heranca_exemplo.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\Heranca_exemplo.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\Heranca_exemplo.dll
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\refint\Heranca_exemplo.dll
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\Heranca_exemplo.pdb
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\Heranca_exemplo.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Heranca_exemplo\obj\Debug\net7.0\ref\Heranca_exemplo.dll
